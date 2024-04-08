@@ -21,6 +21,7 @@ Double-click the installer executable file to launch the installation wizard.
 **3.Accept License Agreement:**  
 Read through the license agreement presented by the installation wizard.
 If you agree to the terms, select the option to accept the license agreement.
+[check out the image](https://github.com/kartik2340/STM_32/blob/main/Screen_shots/Screenshot%202024-04-08%20154659.png)
 
 **4.Choose Installation Directory:**  
 Select the directory where you want to install STM32Cube IDE.
