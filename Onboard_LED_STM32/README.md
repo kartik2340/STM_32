@@ -1,5 +1,5 @@
 ## **Start up guide for ON BOARD LED CONTROL**  
-[Main Code](https://github.com/kartik2340/STM_32/blob/main/main.c)
+[Main Code](https://github.com/kartik2340/STM_32/blob/main/Onboard_LED_STM32/main.c)
 
 **Configuration:**  
 Using STM32CubeMX, we configured one of the GPIO pins connected to an on-board LED (e.g., Pin PC13 on Nucleo-F446RE) as an output.
