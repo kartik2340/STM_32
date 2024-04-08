@@ -7,9 +7,10 @@ In this guide, we'll walk through the essential steps to kickstart your STM32 de
 ### **Here are step-by-step instructions for installing STM32Cube IDE:**
 
 **1.Download STM32Cube IDE:**  
-Go to the official STMicroelectronics website.
+[Go to the official STMicroelectronics website](https://www.st.com/en/development-tools/stm32cubeide.html)
 Navigate to the STM32Cube IDE download page.
-Choose the version suitable for your operating system (Windows, Linux, or macOS).
+
+[Choose the version suitable for your operating system (Windows, Linux, or macOS)](https://www.st.com/en/development-tools/stm32cubeide.html#get-software)
 Click on the download link to start the download.
 
 **2.Run the Installer:**  
