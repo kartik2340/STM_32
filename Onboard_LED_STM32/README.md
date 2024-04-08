@@ -18,3 +18,9 @@ The code was compiled using the GNU Arm Embedded Toolchain within STM32CubeIDE.
 
 **Flashing:**  
 The compiled binary was flashed onto the STM32 microcontroller using STM32CubeIDE or other programming tools like ST-Link or J-Link.
+
+**Results:**  
+After flashing the program onto the STM32 microcontroller, the on-board LED began blinking at the specified interval. The blinking pattern demonstrated the successful control of GPIO pins through software.
+
+**Conclusion:**  
+The development of a simple LED blinking program on an STM32 microcontroller provides a foundational understanding of GPIO control and basic software development for embedded systems. This project serves as an excellent starting point for beginners entering the world of STM32 development. Further exploration can involve more complex applications and interactions with additional peripherals and communication interfaces.
